@@ -85,9 +85,8 @@ author:
   bio              : "PhD. student at Yale Univeristy working on bosonic Quantum Error Correction experiments with superconducting circuits"
   location         : "New Haven, CT, USA"
   employer         : "Yale University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0RVMZkUAAAAJ&hl=en"
-  email            :
+  email            : "akshay.koottandavida@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/akshaykoottandavida"
   google_plus      :
   keybase          :
   instagram        :
