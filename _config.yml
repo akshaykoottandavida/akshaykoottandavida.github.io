@@ -253,6 +253,7 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+
 remote_theme: pages-themes/hacker@v0.2.0
 # Plugins
 plugins:
@@ -269,7 +270,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+theme: jekyll-remote-theme
 
 # Archives
 #  Type
