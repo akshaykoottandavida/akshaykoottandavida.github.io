@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: talk
 title: "Publications"
 permalink: /publications/
 author_profile: true
