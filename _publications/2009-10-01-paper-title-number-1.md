@@ -1,7 +1,7 @@
 ---
 title: "Erasure detection of a dual-rail qubit encoded in a double-post superconducting cavity"
 collection: publications
-permalink: [/publication/2009-10-01-paper-title-number-1](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.180601)
+permalink: (https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.180601)
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
