@@ -3,9 +3,9 @@ title: "Erasure detection of a dual-rail qubit encoded in a double-post supercon
 collection: publications
 permalink: (https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.180601)
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+date: 2024-05-02
+venue: 'Physica Review Letters'
+paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.180601'
 citation: 'Phys. Rev. Lett. 132, 180601'
 ---
 This paper is about the number 1. The number 2 is left for future work.
