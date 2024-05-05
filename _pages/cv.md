@@ -6,9 +6,11 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<iframe src="/files/pdf/akshay_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
 You can download a PDF copy of my CV [here](/files/pdf/akshay_CV.pdf).
 {% include base_path %}
-
+<!-- 
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -56,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
