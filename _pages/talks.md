@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 ### Erasure detection of a dual-rail qubit in a 3D superconducting cavity.
-*Nov 2023* \
+*Nov 20234* \
 Contributed talk, QEC23, Sydney, Australia
 
 ### Quantum control and error correction with two bosonic modes.
@@ -30,7 +30,7 @@ Invited talk, Workshop on Enabling Technology and Algorithms for Quantum Computi
 WACQT, Chalmers, Sweden
 
 ### Experimental implementation of pair-cat code with superconducting microwave circuits.
-*Mar 2021*
+*Mar 2021*\
 Session talk, APS March meeting, Online
 
 {% if site.talkmap_link == true %}
