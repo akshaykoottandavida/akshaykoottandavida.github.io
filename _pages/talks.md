@@ -5,8 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 ### Erasure detection of a dual-rail qubit in a 3D superconducting cavity.
-*Nov 20234* \
-Contributed talk, QEC23, Sydney, Australia
+Contributed talk, QEC23, Sydney, Australia\
+*Nov 2023* 
 
 ### Quantum control and error correction with two bosonic modes.
 *Mar 2023*\
