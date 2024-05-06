@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Akshay Koottandavida"
-title_separator          : "-"
+title_separator          : " | "
 name                     : &name "Akshay Koottandavida"
 description              : &description "Experimental physicist at Yale Univeristy working on bosonic Quantum Error Correction with superconducting circuits"
 url                      : https://akshaykoottandavida.github.io #
