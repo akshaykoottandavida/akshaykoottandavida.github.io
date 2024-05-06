@@ -29,7 +29,7 @@ We discuss topology in dissipative quantum systems from the perspective of quant
 
 
 ## Nonreciprocal reconfigurable microwave optomechanical circuit
-N.R. Bernier*, L.D. Tóth*, A. Koottandavida, M. A. Ioannou, D. Malz, A. Nunnenkamp, A.K. Feofanov & T.J. Kippenberg
+N.R. Bernier<sup>*</sup>, L.D. Tóth<sup>*</sup>, A. Koottandavida, M. A. Ioannou, D. Malz, A. Nunnenkamp, A.K. Feofanov & T.J. Kippenberg
 
 Journal : Nature Communications \
 Date : 2017-09-19 \
