@@ -22,7 +22,7 @@ DOI : 10.1103/PhysRevLett.132.180601
 ## Unraveling the topology of dissipative quantum systems
 Clemens Gneiting, Akshay Koottandavida, A. V. Rozhkov, and Franco Nori
 
-Journal : Physical Review Research
+Journal : Physical Review Research \
 Date : 2022-04-12
 DOI : 10.1103/PhysRevResearch.4.023036
 
