@@ -179,7 +179,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: talk
     values:
       layout: talk
       author_profile: true
