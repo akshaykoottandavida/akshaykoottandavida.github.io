@@ -9,7 +9,7 @@ author_profile: true
 _Full publication list on [Google Scholar](https://scholar.google.com/citations?user=0RVMZkUAAAAJ&hl=en)_
 
 ## Erasure detection of a dual-rail qubit encoded in a double-post superconducting cavity
-Akshay Koottandavida*, Ioannis Tsioutsios*, Aikaterini Kargioti, Cassady R. Smith, Vidul R. Joshi, Wei Dai, James D. Teoh, Jacob C. Curtis, Luigi Frunzio, Robert J. Schoelkopf, and Michel H. Devoret, 
+Akshay Koottandavida<sup>*</sup>, Ioannis Tsioutsios <sup>*</sup>, Aikaterini Kargioti, Cassady R. Smith, Vidul R. Joshi, Wei Dai, James D. Teoh, Jacob C. Curtis, Luigi Frunzio, Robert J. Schoelkopf, and Michel H. Devoret, 
 
 Journal : Physical Review Letters \
 Date : 2024-05-03 \
