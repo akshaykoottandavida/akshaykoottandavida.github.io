@@ -11,7 +11,7 @@ title                    : "Akshay Koottandavida"
 title_separator          : "-"
 name                     : &name "Akshay Koottandavida"
 description              : &description "Experimental physicist at Yale Univeristy working on bosonic Quantum Error Correction with superconducting circuits"
-url                      : https://akshaykoottandavida.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://akshaykoottandavida.github.io #
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "akshaykoottandavida/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -58,18 +58,6 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
 
 # Analytics
 analytics:
@@ -77,41 +65,21 @@ analytics:
   google:
     tracking_id          :
 
-
 # Site Author
 author:
   name             : "Akshay Koottandavida"
   avatar           : "profile.png"
-  bio              : "PhD. student at Yale Univeristy working on bosonic Quantum Error Correction experiments with superconducting circuits"
+  bio              : "Experimental Physicist working on bosonic Quantum Error Correction in superconducting circuits"
   location         : "New Haven, CT, USA"
   employer         : "Yale University"
   googlescholar    : "https://scholar.google.com/citations?user=0RVMZkUAAAAJ&hl=en"
   email            : "akshay.koottandavida@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "https://github.com/akshaykoottandavida"
-  google_plus      :
-  keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : "https://www.linkedin.com/in/akshay-koottandavida-b94173124/"
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "koottandavida"
-  vine             :
-  weibo            :
-  xing             :
   youtube          :
   wikipedia        :
 
@@ -159,7 +127,6 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
 # Markdown Processing
 kramdown:
   input: GFM
@@ -170,7 +137,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
 
 # Collections
 collections:
@@ -183,7 +149,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -205,15 +170,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -223,15 +179,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comment: true
   # _talks
   - scope:
       path: ""
