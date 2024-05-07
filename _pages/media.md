@@ -10,6 +10,6 @@ author_profile: true
 *Nov 2023* \
 Contributed talk, QEC23, Sydney, Australia
 
-{% for post in site.teaching reversed %}
+{% for post in site.media reversed %}
   {% include archive-single.html %}
 {% endfor %}
