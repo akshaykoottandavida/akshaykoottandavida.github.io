@@ -4,7 +4,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-\textbf{Erasure detection of a dual-rail qubit in a 3D superconducting cavity.}
+**Erasure detection of a dual-rail qubit in a 3D superconducting cavity.**\
 Contributed talk, QEC23, Sydney, Australia\
 *Nov 2023* 
 
