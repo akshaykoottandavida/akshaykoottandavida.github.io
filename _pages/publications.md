@@ -17,7 +17,7 @@ DOI : [10.1103/PhysRevLett.132.180601](https://link.aps.org/doi/10.1103/PhysRevL
 
  Qubits with predominantly erasure errors present distinctive advantages for quantum error correction (QEC) and fault-tolerant quantum computing. Logical qubits based on dual-rail encoding that exploit erasure detection have been recently proposed in superconducting circuit architectures, with either coupled transmons or cavities. Here, we implement a dual-rail qubit encoded in a compact, double-post superconducting cavity. Using an auxiliary transmon, we perform erasure detection on the dual-rail subspace. We characterize the behavior of the code space by a novel method to perform joint-Wigner tomography. This is based on modifying the cross-Kerr interaction between the cavity modes and the transmon. We measure an erasure rate of 3.981±0.003 (ms)−1 and a residual, postselected dephasing error rate up to 0.17 (ms)−1 within the code space. This strong hierarchy of error rates, together with the compact and hardware-efficient nature of this novel architecture, holds promise in realizing QEC schemes with enhanced thresholds and improved scaling.
 
-
+[PDF](/files/pdf/dualrail_main_and_supp.pdf)
 
 ## Unraveling the topology of dissipative quantum systems
 Clemens Gneiting, Akshay Koottandavida, A. V. Rozhkov, and Franco Nori
