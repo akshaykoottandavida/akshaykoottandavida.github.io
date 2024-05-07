@@ -8,33 +8,33 @@ author_profile: true
 Contributed talk, QEC23, Sydney, Australia\
 *Nov 2023* 
 
-### Quantum control and error correction with two bosonic modes.
+**Quantum control and error correction with two bosonic modes.**\
 Session talk, APS March meeting, Las Vegas, USA\
 *Mar 2023*
 
 
-### Autonomous quantum error correction with pair-cat code.
+**Autonomous quantum error correction with pair-cat code.**\
 Poster, Gordon Research Conference, Boston, USA\
 *Jul 2022* 
 
 
-### Experimental implementation of pair-cat code with superconducting microwave circuits.
+**Experimental implementation of pair-cat code with superconducting microwave circuits.**\
 Session talk, APS March meeting, Chicago, USA\
 *Mar 2022*
 
 
-### Autonomous quantum error correction with pair-cat code in superconducting microwave circuits.
+**Autonomous quantum error correction with pair-cat code in superconducting microwave circuits.**\
 Invited talk, International Conference on Complex Quantum Systems, BARC, Mumbai,India\
 *Jun 2021*
 
 
-### Autonomous quantum error correction with pair-cat code in superconducting microwave circuits.
+**Autonomous quantum error correction with pair-cat code in superconducting microwave circuits.**\
 Invited talk, Workshop on Enabling Technology and Algorithms for Quantum Computing,
 WACQT, Chalmers, Sweden\
 *Apr 2021*
 
 
-### Experimental implementation of pair-cat code with superconducting microwave circuits.
+**Experimental implementation of pair-cat code with superconducting microwave circuits.**\
 Session talk, APS March meeting, Online\
 *Mar 2021*
 
