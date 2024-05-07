@@ -6,12 +6,13 @@ author_profile: true
 ---
 **Erasure detection of a dual-rail qubit in a 3D superconducting cavity.**\
 Contributed talk, QEC23, Sydney, Australia\
-*Nov 2023* 
+*Nov 2023* \
 [Link](https://www.youtube.com/watch?v=X74DZZPeUh0)
 
 **Quantum control and error correction with two bosonic modes.**\
 Session talk, APS March meeting, Las Vegas, USA\
-*Mar 2023*
+*Mar 2023*\
+[Link](https://www.youtube.com/watch?v=TW4P8gmCnR0)
 
 
 **Autonomous quantum error correction with pair-cat code.**\
