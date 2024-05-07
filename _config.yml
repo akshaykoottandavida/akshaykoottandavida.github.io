@@ -146,6 +146,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  theses:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
