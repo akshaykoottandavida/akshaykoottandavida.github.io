@@ -4,34 +4,40 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-### Erasure detection of a dual-rail qubit in a 3D superconducting cavity.
+\textbf{Erasure detection of a dual-rail qubit in a 3D superconducting cavity.}
 Contributed talk, QEC23, Sydney, Australia\
 *Nov 2023* 
 
 ### Quantum control and error correction with two bosonic modes.
-*Mar 2023*\
-Session talk, APS March meeting, Las Vegas, USA
+Session talk, APS March meeting, Las Vegas, USA\
+*Mar 2023*
+
 
 ### Autonomous quantum error correction with pair-cat code.
-*Jul 2022* \
-Poster, Gordon Research Conference, Boston, USA
+Poster, Gordon Research Conference, Boston, USA\
+*Jul 2022* 
+
 
 ### Experimental implementation of pair-cat code with superconducting microwave circuits.
-*Mar 2022*\
-Session talk, APS March meeting, Chicago, USA
+Session talk, APS March meeting, Chicago, USA\
+*Mar 2022*
+
 
 ### Autonomous quantum error correction with pair-cat code in superconducting microwave circuits.
-*Jun 2021*\
-Invited talk, International Conference on Complex Quantum Systems, BARC, Mumbai,India
+Invited talk, International Conference on Complex Quantum Systems, BARC, Mumbai,India\
+*Jun 2021*
+
 
 ### Autonomous quantum error correction with pair-cat code in superconducting microwave circuits.
-*Apr 2021*\
 Invited talk, Workshop on Enabling Technology and Algorithms for Quantum Computing,
-WACQT, Chalmers, Sweden
+WACQT, Chalmers, Sweden\
+*Apr 2021*
+
 
 ### Experimental implementation of pair-cat code with superconducting microwave circuits.
-*Mar 2021*\
-Session talk, APS March meeting, Online
+Session talk, APS March meeting, Online\
+*Mar 2021*
+
 
 {% if site.talkmap_link == true %}
 
