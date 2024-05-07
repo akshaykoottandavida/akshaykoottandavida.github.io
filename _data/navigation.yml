@@ -7,10 +7,10 @@ main:
     url: /talks/    
 
   - title: "Theses"
-    url: /teaching/    
+    url: /theses/    
     
   - title: "Media"
-    url: /portfolio/
+    url: /media/
   
   - title: "CV"
     url: /cv/
