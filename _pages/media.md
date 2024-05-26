@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 ## blah blah.
 
-<img style="float: right;" src="my_pic.jpeg">
+<img style="float: right;" src="/files/my_pic.jpeg">
 
 Continue markdown text...
 
