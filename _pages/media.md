@@ -10,9 +10,7 @@ author_profile: true
 
 <!-- | ![Flowers](/images/my_pic.jpeg) | I am text to the right | -->
 
-<div style="float:left;margin:0 10px 10px 0" markdown="1">
-    ![book](/images/my_pic.jpeg)
-</div>
+<h1><img src="/images/my_pic.jpeg">American Title</h1>
 
 {% for post in site.media reversed %}
   {% include archive-single.html %}
