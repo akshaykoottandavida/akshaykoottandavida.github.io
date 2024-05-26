@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 ## blah blah.
+
+<img style="float: right;" src="my_pic.jpeg">
+
+Continue markdown text...
+
 *Nov 2023* \
 Contributed talk, QEC23, Sydney, Australia
 
