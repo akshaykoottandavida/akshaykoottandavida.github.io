@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 ## PhD. Thesis
-Title : Multimode bosonic quantum error correction
+Title : Multimode bosonic quantum error correction\
 Advisor : Prof. Michel Devoret, Yale University, USA
 
 ## Masters Thesis

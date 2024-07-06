@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+![Flowers](/images/my_pic.jpeg)
 ## *Quantum errors raise a flag, Yale Quantum Institute, 2024*
 
 
