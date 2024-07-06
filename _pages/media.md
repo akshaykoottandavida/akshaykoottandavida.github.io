@@ -10,7 +10,7 @@ author_profile: true
 **Quantum errors raise a flag, Yale Quantum Institute, 2024**
 
 
-<img src="/images/my_pic.jpeg" alt="drawing" width="200"/>
+<img src="/images/nonrecip.jpg" alt="drawing" width="200"/>
 **One-way track for microwaves based on mechanical interference**
 
 
