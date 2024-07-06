@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
-|<img src="/images/erasure.png" alt="drawing" width="200"/>| **Quantum errors raise a flag, Yale Quantum Institute, 2024**|
+<img src="/images/erasure.png" alt="drawing" width="200"/>
+**Quantum errors raise a flag, Yale Quantum Institute, 2024**
 
 
 
